@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sanaasif/Documents/TestSampleAWS_11142019/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/sanaasif/.gradle/caches/transforms-1/files-1.1/SplashScreen-1.1.0.aar/741a087d85311aa924f1204d44490caa/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,460",
+                        "endLines": "9,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "455,748"
+                    }
+                }
+            ]
+        }
+    ]
+}
